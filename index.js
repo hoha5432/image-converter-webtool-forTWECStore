@@ -1,0 +1,1 @@
+// simulated JS output
